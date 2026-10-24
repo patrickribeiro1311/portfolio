@@ -15,6 +15,10 @@ Portfólio de projetos web, desenvolvimento de sistemas e automações com IA.
 
 Atuei em design, layout, implementação, conteúdo e manutenção dos sites listados. O [site do EVA Pro](https://evapro.com.br/) também está no portfólio.
 
+## Competências complementares
+
+UX/UI, direção de arte, identidade visual, design gráfico, tipografia, conteúdo e ferramentas Adobe. Essa experiência apoia o trabalho com interfaces e experiência de uso, enquanto meu foco profissional atual é desenvolvimento de sistemas e automações.
+
 ## Tecnologias deste portfólio
 
 HTML e CSS, sem dependências ou etapa de build. O site é responsivo e pode ser publicado diretamente no GitHub Pages.
